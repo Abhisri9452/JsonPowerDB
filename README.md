@@ -1,6 +1,6 @@
 # JsonPowerDB
 ## Title of the Project<br/> 
-**WebFormExample**<br/>
+**JsonWeb**<br/>
 
 ## Description<br/>
 Creating a JsonPowerDB web project on NetBeans using Talend API Tester <br/>
