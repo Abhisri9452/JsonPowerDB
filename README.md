@@ -16,4 +16,5 @@ Completed
 ## Release History (release of your JsonPowerDB related code on Github)<br/>
 10/06/22
 ## ScreenShots
-![Screenshot](https://github.com/Abhisri9452/JsonPowerDB/issues/new)
+![Screenshot (30)](https://user-images.githubusercontent.com/77166179/178140965-b4451122-34c0-4a07-9bb3-8e203c6631c2.png)
+
